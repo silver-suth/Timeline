@@ -1,9 +1,34 @@
 h1 {
   text-align: center;
+  font-family: 'Vollkorn', serif;
+  background-color: rgba(0, 50, 100, 0.5);
 }
 h2 {
   text-align: center;
+  font-family: 'Josefin Sans', sans-serif;
+  color: rgba(0, 50, 100, 1);
 }
 p {
+  font-family: 'Gayathri', sans-serif;
+}
+html {
+  background-color: lightgrey;
+}
+hr {
+  color: rgba(0, 50, 100, 1);
+}
+.Section1 {
+
+}
+.Section2 {
+
+}
+.Section3 {
+
+}
+.Section4 {
+
+}
+.Section5 {
 
 }
